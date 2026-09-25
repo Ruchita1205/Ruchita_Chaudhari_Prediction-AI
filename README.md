@@ -62,7 +62,9 @@ Action Plans
         ↓
 Final Strategic Assessment
 
-🛠️ Technology Stack
+
+
+##🛠️ Technology Stack
 Python: Primary programming language for core business logic and computational engines.
 
 Streamlit: Interactive web application interface and visual analytics dashboard.
@@ -75,6 +77,6 @@ PostgreSQL / Database Layer: Structured storage for project records, risk profil
 
 HTML / CSS: Interface customization and presentation styling.
 
-💡 Project Outcome
+##💡 Project Outcome
 The overall goal of Prediction AI is to provide a structured decision-support system that gives project teams clear insights:
-{What could go wrong} \longrightarrow \text{Why it matters} \longrightarrow \text{What can be done} \longrightarrow \text{How the project can be improved}$$
+What could go wrong -> Why it matters -> What can be done -> How the project can be improved
